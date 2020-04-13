@@ -13,7 +13,7 @@ Handwritten Document Recognition implemented using [TensorFlow 2.1.0](https://ww
 
 ## Train and test (Google Colab/Drive)
 
-Run the following notebook (https://github.com/aastha-m8/handwritten-text-recognition/blob/master/src/main.ipynb)** on Google Colab/Drive.
+Run the following notebook **(https://github.com/aastha-m8/Handwritten-document-recognition/blob/master/src/main.ipynb)** on Google Colab/Drive.
 
 # Refrences
 - https://medium.com/@arthurflor23/handwritten-text-recognition-using-tensorflow-2-0-f4352b7afe16
